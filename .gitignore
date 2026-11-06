@@ -1,0 +1,28 @@
+# Build outputs and installers
+build/
+build_qt/
+build_paylas/
+dist/
+dist_qt/
+dist_paylas/
+dist_kurulum/
+*.exe
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Local backups and old copies (not part of the project)
+yedekler/
+qaznote.py
+qAnvas-Calisma-Ozeti.pdf
+
+# Local secrets (never commit)
+pyside6-prototip/qz_secrets.py
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

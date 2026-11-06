@@ -1,0 +1,28 @@
+# UTF-8
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(0, 3, 0, 0),
+    prodvers=(0, 3, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        '041F04B0',
+        [StringStruct('CompanyName', 'qaZNot'),
+         StringStruct('FileDescription', 'qaZNot - Not Defteri'),
+         StringStruct('FileVersion', '0.3.0.0'),
+         StringStruct('InternalName', 'qaZNot'),
+         StringStruct('OriginalFilename', 'qaZNot.exe'),
+         StringStruct('ProductName', 'qaZNot'),
+         StringStruct('ProductVersion', '0.3_061126_var1 VisCreate')])
+    ]),
+    VarFileInfo([VarStruct('Translation', [1055, 1200])])
+  ]
+)
+
