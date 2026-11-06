@@ -112,6 +112,10 @@ Settings, uploads, and the template cache are stored in `%APPDATA%\qaznote\`. Do
 - Published exe files are currently unsigned.
 - An encrypted document's password is never stored in the file. If it is lost, the document cannot be recovered.
 
+## License keys
+
+License keys for Core, Enterprise, and Professional editions: contact **Discord: qazryou**.
+
 ## License
 
 Not decided yet.
